@@ -1,2 +1,1 @@
-# azyad
-a team project for azyad IT consultancy services by Dijakstra's Five
+Team Dijkstra developed a comprehensive website for Azyad IT Consultancy Services, utilizing Visual Studio Code for the foundational development. The project leveraged a theme sourced from WordPress, ensuring a professional and user-friendly interface. To streamline the deployment and management process, the team used Pantheon, a robust platform for web development. This collaboration resulted in a dynamic and responsive website that effectively showcases Azyad IT Consultancy Services' offerings and expertise, combining the strengths of modern development tools and content management systems.
